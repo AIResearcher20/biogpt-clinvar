@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+data/
+*.vcf
+*.vcf.gz
+*.pt
+*.pth
+*.safetensors
+.DS_Store
+.env
