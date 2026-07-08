@@ -4,7 +4,7 @@
 
 ### Fine-Tuning a Biomedical Large Language Model for Genomic Variant Interpretation Using Parameter-Efficient LoRA
 
-#### Vania Karimi · Independent Researcher
+#### Sepideh Moafi· Independent Researcher
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red?style=for-the-badge&logo=pytorch)]()
@@ -194,7 +194,7 @@ print(interpret_variant("BRCA1 c.68_69delAG"))
 
 💻 Installation
 
-git clone https://github.com/YOUR_USERNAME/biogpt-clinvar.git
+git clone https://github.com/AIResearcher20/biogpt-clinvar.git
 
 cd biogpt-clinvar
 
