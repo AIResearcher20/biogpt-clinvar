@@ -1,10 +1,13 @@
 <div align="center">
 
 # 🧬 BioGPT-ClinVar
-
-### Fine-Tuning a Biomedical Large Language Model for Genomic Variant Interpretation Using Parameter-Efficient LoRA
+ 
+## A Reproducible Framework for Parameter-Efficient Adaptation of Biomedical Large Language Models for Genomic Variant Interpretation
 
 #### Sepideh Moafi· Independent Researcher
+
+**Technologies:**  
+Python • PyTorch • Hugging Face Transformers • BioGPT • PEFT/LoRA • ClinVar • GPU Computing
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red?style=for-the-badge&logo=pytorch)]()
@@ -19,11 +22,6 @@
 
 **Parameter-Efficient Fine-Tuning of BioGPT on ClinVar Variants**
 
-📄 Preprint in Preparation  
-🤗 Hugging Face Model Available  
-🔬 Fully Reproducible Pipeline  
-⚡ Single-GPU Training  
-🧪 Independent Biomedical AI Research
 
 </div>
 
