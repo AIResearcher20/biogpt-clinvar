@@ -3,8 +3,11 @@
 # 🧬 BioGPT-ClinVar
  
 ## A Reproducible Framework for Parameter-Efficient Adaptation of Biomedical Large Language Models for Genomic Variant Interpretation
-
-#### Sepideh Moafi· Independent Researcher
+---
+**Year:** 2024–2025  
+**License:** MIT  
+**Author:** Sepideh Moafi
+---
 
 **Technologies:**  
 Python • PyTorch • Hugging Face Transformers • BioGPT • PEFT/LoRA • ClinVar • GPU Computing
@@ -576,26 +579,6 @@ The project reflects an interest in developing reliable computational methods at
 
 ---
 
-# 📄 Citation
-
-If you use this framework or model in your research, please cite:
-
-```bibtex
-@misc{bioGPTClinVar2026,
-  title={BioGPT-ClinVar: A Reproducible Framework for Parameter-Efficient Adaptation of Biomedical Large Language Models for Genomic Variant Interpretation},
-  author={Moafi, Sepideh},
-  year={2026},
-  note={Preprint in preparation}
-}
-🙏 Acknowledgements
-This project builds upon open-source biomedical AI resources and scientific databases, including:
-ClinVar database contributors
-BioGPT developers
-Hugging Face Transformers community
-PEFT / LoRA developers
-Open-source biomedical AI researchers
-
-
 📌 Project Summary
 BioGPT-ClinVar provides an end-to-end framework for adapting biomedical large language models to genomic variant interpretation through:
 🧬 Genomic Data Engineering
@@ -863,11 +846,14 @@ This study was conducted independently using publicly available datasets, open-s
 
 📚 Citation
 
-@article{Moafi2026biogpt,
+@article{Moafi2025biogpt,
   title={BioGPT-ClinVar: Fine-Tuning a Biomedical Large Language Model for Genomic Variant Interpretation Using Parameter-Efficient LoRA},
   author={Moafi , Sepideh},
   journal={Preprint},
-  year={2026}
+  year={2025},
+  journal={Research Square},
+  doi={10.21203/rs.3.rs-10196893/v1}
+}
 }
 
 ---
