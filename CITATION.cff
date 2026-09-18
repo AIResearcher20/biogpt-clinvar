@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "BioGPT-ClinVar: Parameter-Efficient Fine-Tuning of a Biomedical Foundation Model"
+message: "If you use this work in research, please cite it as below."
+type: software
+authors:
+  - family-names: Moafi
+    given-names: Sepideh 
+repository-code: "https://github.com/AIResearcher20/biogpt-clinvar"
+license: MIT
+year: 2025
+date-released: "2025-02-04"
+keywords:
+  - biomedical AI
+  - foundation models
+  - LoRA
+  - PEFT
+  - ClinVar
+  - BioGPT
+  - fine-tuning
+identifiers:
+  - type: doi
+    value: 10.21203/rs.3.rs-10196893/v1
+    description: "Research Square preprint"
