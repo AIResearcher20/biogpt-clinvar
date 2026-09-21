@@ -186,7 +186,7 @@ Citation
   title={BioGPT-ClinVar: Parameter-Efficient Fine-Tuning of a Biomedical Foundation Model},
   author={Moafi, Sepideh},
   journal={Research Square},
-  year={2025},
+  
   doi={10.21203/rs.3.rs-10196893/v1}
 }
 ```
