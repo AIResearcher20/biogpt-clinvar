@@ -41,5 +41,5 @@ if __name__ == "__main__":
     
     for v in variants:
         result = interpreter.interpret(v)
-        print(f"🔬 {v}")
-        print(f"💬 {result}\n")
+        print(f" {v}")
+        print(f" {result}\n")
